@@ -5,3 +5,4 @@ A list of great MacOS applications
 - https://flameshot.org/
 - https://www.alfredapp.com/
 - https://rectangleapp.com/
+- https://typora.io/
